@@ -1,0 +1,1 @@
+declare module '*.css'; // don't worry about .css files
